@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 14
     },
     {
       "id": 2,
@@ -47,6 +47,48 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Bulbasaur",
+      "image": "https://www.serebii.net/swordshield/pokemon/001.png",
+      "likes": 2,
+      "id": 9
+    },
+    {
+      "name": "Charmander",
+      "image": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Squirtle",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/250px-007Squirtle.png",
+      "likes": 6,
+      "id": 11
+    },
+    {
+      "name": "Pikachu",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/0/0d/025Pikachu.png/1200px-025Pikachu.png",
+      "likes": 1,
+      "id": 12
+    },
+    {
+      "name": "Pikachuasdf",
+      "image": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png",
+      "likes": 0,
+      "id": 25
+    },
+    {
+      "name": "Pikachuasdfasdfasdf",
+      "image": "https://www.serebii.net/swordshield/pokemon/001.png",
+      "likes": 5,
+      "id": 26
+    },
+    {
+      "name": "dino DNA",
+      "image": "https://cdn.shopify.com/s/files/1/1373/4191/products/ifihk0613xeoydjgnl1m_448x448.jpg",
+      "likes": 7,
+      "id": 27
     }
   ]
 }
